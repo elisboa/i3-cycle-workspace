@@ -18,6 +18,6 @@ pip install i3-py
 
 ## Ideas for future releases
 
+- suppot arguments from command line when called
 - have a config file
-- automatically switch workspaces based on number or name
-
+- automatically switch workspaces based on number or name when attaching or detaching a second monitor
