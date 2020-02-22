@@ -1,5 +1,6 @@
 #!/usr/bin/env python
  
+# You must run pip install i3-py
 import i3
 
 outputs = i3.get_outputs()
